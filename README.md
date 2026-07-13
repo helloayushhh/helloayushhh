@@ -1,5 +1,5 @@
-# 💫 About Me:
-hi, i'm ayush.<br><br>software engineer with a builder's mindset.<br><br>• Building with Python & Java<br><br>• Exploring AI beyond the hype<br><br>• Interested in scalable backend systems<br><br>• Always shipping something
+# hi, i'm ayush
+software engineer with a builder's mindset.<br><br>• Building with Python & Java<br><br>• Exploring AI beyond the hype<br><br>• Interested in scalable backend systems<br><br>• Always shipping something
 
 
 ## 🌐 Socials:
@@ -13,7 +13,14 @@ hi, i'm ayush.<br><br>software engineer with a builder's mindset.<br><br>• Bui
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=helloayushhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=helloayushhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=helloayushhh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -23,5 +30,3 @@ hi, i'm ayush.<br><br>software engineer with a builder's mindset.<br><br>• Bui
 
 ---
 [![](https://komarev.com/ghpvc/?username=helloayushhh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
