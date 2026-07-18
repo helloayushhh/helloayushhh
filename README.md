@@ -1,6 +1,16 @@
 # hi, i'm ayush
-software engineer with a builder's mindset.<br><br>• Building with Python & Java<br><br>• Exploring AI beyond the hype<br><br>• Interested in scalable backend systems<br><br>• Always shipping something
 
+i enjoy turning ideas into things people can actually use.
+
+<br>
+
+• building with python & java
+
+• exploring ai through real projects
+
+• learning product thinking along the way
+
+• probably working on my next build
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushxsurya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandeysurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailprodman@gmail.com) 
