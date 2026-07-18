@@ -22,7 +22,7 @@ i enjoy turning ideas into things people can actually use.
 ![](https://streak-stats.demolab.com/?user=helloayushhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=helloayushhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## Contributions
 ![](https://github-profile-trophy.vercel.app/?username=helloayushhh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div><br>
