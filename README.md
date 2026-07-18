@@ -37,6 +37,3 @@ i enjoy turning ideas into things people can actually use.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=helloayushhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=helloayushhh&icon=0&color=0)](https://visitcount.itsvg.in)
