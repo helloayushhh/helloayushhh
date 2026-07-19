@@ -163,9 +163,20 @@
       <g font-size="15" fill="#CBD5E1">
         <text x="484" y="222" opacity="0">📍 greater noida, india<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/></text>
         <text x="484" y="252" opacity="0">🎓 b.tech cse(ai) • galgotias'27<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/></text>
-        <text x="484" y="282" opacity="0">🚀 currently building - "tanu". "swiftupi"<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/></text>
-        
-        <text x="484" y="312" opacity="0">software • systems • product<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.1s" fill="freeze"/></text>
+        <text x="484" y="282" opacity="0">
+          🚀 currently building • tanu • swiftupi
+          <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/>
+        </text>
+
+        <text x="484" y="322" opacity="0" font-size="14" fill="#94A3B8" font-style="italic">
+          see you in the next build.
+          <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.9s" fill="freeze"/>
+        </text>
+
+        <text x="484" y="344" opacity="0" font-size="14" fill="#22D3EE">
+          — aps
+          <animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.1s" fill="freeze"/>
+        </text>
       </g>
     </g>
 
