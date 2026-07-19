@@ -111,7 +111,7 @@
       <text x="70" y="276" opacity="0"> └──┬───────┬──┘ <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.6s" fill="freeze"/></text>
       <text x="70" y="302" opacity="0">    │       │    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.0s" fill="freeze"/></text>
       <text x="70" y="328" opacity="0">  ╭─┴───────┴─╮  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.4s" fill="freeze"/></text>
-      <text x="70" y="354" opacity="0">  │  AYUSH.DEV │  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze"/></text>
+      <text x="70" y="354" opacity="0">  │  aps.dev  │  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.8s" fill="freeze"/></text>
       <text x="70" y="380" opacity="0">  ╰───────────╯  <animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.2s" fill="freeze"/></text>
     </g>
 
@@ -138,86 +138,86 @@
     <circle cx="480" cy="41" r="6" fill="#FF5F57"/>
     <circle cx="502" cy="41" r="6" fill="#FEBC2E"/>
     <circle cx="524" cy="41" r="6" fill="#28C840"/>
-    <text x="806" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12.5" fill="#64748B">ayush@dev ~ zsh</text>
+    <text x="806" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12.5" fill="#64748B">helloayushhh</text>
     <line x1="452" y1="62" x2="1160" y2="62" stroke="rgba(15,23,42,0.08)"/>
 
     <g font-family="Consolas, 'Courier New', monospace">
-      <text x="484" y="102" font-size="24" fill="#0F172A" opacity="0">Hi <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/></text>
+      <text x="484" y="102" font-size="24" fill="#0F172A" opacity="0">hi <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/></text>
       <text x="514" y="102" font-size="24" opacity="0">👋<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/></text>
 
-      <text x="484" y="140" font-size="30" font-weight="700" fill="url(#accentGrad)" opacity="0" filter="url(#glowSm)">I'm Ayush Pandey
+      <text x="484" y="140" font-size="30" font-weight="700" fill="url(#accentGrad)" opacity="0" filter="url(#glowSm)">i'm ayush
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.9s" fill="freeze"/>
       </text>
 
       <!-- typewriter role loop -->
-      <text x="484" y="176" font-size="18" fill="#06B6D4" clip-path="url(#typeClip1)">Frontend Engineer</text>
-      <text x="484" y="176" font-size="18" fill="#06B6D4" clip-path="url(#typeClip2)">Full Stack Developer</text>
-      <text x="484" y="176" font-size="18" fill="#06B6D4" clip-path="url(#typeClip3)">Open Source Contributor</text>
-      <text x="484" y="176" font-size="18" fill="#06B6D4" clip-path="url(#typeClip4)">UI Engineer</text>
-      <text x="484" y="176" font-size="18" fill="#06B6D4" clip-path="url(#typeClip5)">AI Enthusiast</text>
-      <rect x="486" y="163" width="9" height="18" fill="#06B6D4">
+      <text x="484" y="176" font-size="18" fill="#22D3EE" clip-path="url(#typeClip1)">building products</text>
+      <text x="484" y="176" font-size="18" fill="#22D3EE" clip-path="url(#typeClip2)">backend systems</text>
+      <text x="484" y="176" font-size="18" fill="#22D3EE" clip-path="url(#typeClip3)">exploring ai</text>
+      <text x="484" y="176" font-size="18" fill="#22D3EE" clip-path="url(#typeClip4)">solving real problems</text>
+      <text x="484" y="176" font-size="18" fill="#22D3EE" clip-path="url(#typeClip5)">learning by shipping</text>
+      <rect x="486" y="163" width="9" height="18" fill="#22D3EE">
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
       </rect>
 
       <!-- info list, sequential reveal -->
-      <g font-size="15" fill="#334155">
-        <text x="484" y="222" opacity="0">📍 Location: Greater Noida, India<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/></text>
-        <text x="484" y="252" opacity="0">🎓 Education: B.Tech AI, Galgotias '27<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/></text>
-        <text x="484" y="282" opacity="0">🚀 Current Focus: Building "Tanu" — AI Career Companion<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/></text>
-        <text x="484" y="312" opacity="0">🌐 Portfolio: helloayush.vercel.app<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.1s" fill="freeze"/></text>
-        <text x="484" y="342" opacity="0">✉️ Email: ayushpandeysurya@gmail.com<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.6s" fill="freeze"/></text>
+      <g font-size="15" fill="#CBD5E1">
+        <text x="484" y="222" opacity="0">📍 greater noida, india<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/></text>
+        <text x="484" y="252" opacity="0">🎓 b.tech cse(ai) • galgotias'27<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/></text>
+        <text x="484" y="282" opacity="0">🚀 currently building - "tanu". "swiftupi"<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/></text>
+        
+        <text x="484" y="312" opacity="0">software • systems • product<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.1s" fill="freeze"/></text>
       </g>
     </g>
 
-    <line x1="484" y1="366" x2="1128" y2="366" stroke="rgba(15,23,42,0.08)"/>
+    <line x1="484" y1="366" x2="1128" y2="366" stroke="rgba(255,255,255,0.08)"/>
 
     <!-- skills pills -->
     <g font-family="'Segoe UI', sans-serif" font-size="13" font-weight="600">
       <!-- row 1 -->
       <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.0s" fill="freeze"/>
-        <rect x="484" y="384" width="70" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#2563EB" stroke-width="1"/><text x="519" y="404" text-anchor="middle" fill="#1D4ED8">React</text>
-        <rect x="562" y="384" width="82" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#06B6D4" stroke-width="1"/><text x="603" y="404" text-anchor="middle" fill="#0E7490">TypeScript</text>
-        <rect x="652" y="384" width="86" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="695" y="404" text-anchor="middle" fill="#047857">Node.js</text>
-        <rect x="746" y="384" width="80" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#2563EB" stroke-width="1"/><text x="786" y="404" text-anchor="middle" fill="#1D4ED8">Fastify</text>
-        <rect x="834" y="384" width="72" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#06B6D4" stroke-width="1"/><text x="870" y="404" text-anchor="middle" fill="#0E7490">Python</text>
-        <rect x="914" y="384" width="60" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="944" y="404" text-anchor="middle" fill="#047857">Java</text>
-        <rect x="982" y="384" width="102" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#2563EB" stroke-width="1"/><text x="1033" y="404" text-anchor="middle" fill="#1D4ED8">Spring Boot</text>
+        <rect x="484" y="384" width="70" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#7C3AED" stroke-width="1"/><text x="519" y="404" text-anchor="middle" fill="#C4B5FD">react</text>
+        <rect x="562" y="384" width="82" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#22D3EE" stroke-width="1"/><text x="603" y="404" text-anchor="middle" fill="#A5F3FC">typeScript</text>
+        <rect x="652" y="384" width="86" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="695" y="404" text-anchor="middle" fill="#6EE7B7">node.js</text>
+        <rect x="746" y="384" width="80" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#7C3AED" stroke-width="1"/><text x="786" y="404" text-anchor="middle" fill="#C4B5FD">fastify</text>
+        <rect x="834" y="384" width="72" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#22D3EE" stroke-width="1"/><text x="870" y="404" text-anchor="middle" fill="#A5F3FC">python</text>
+        <rect x="914" y="384" width="60" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="944" y="404" text-anchor="middle" fill="#6EE7B7">java</text>
+        <rect x="982" y="384" width="102" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#7C3AED" stroke-width="1"/><text x="1033" y="404" text-anchor="middle" fill="#C4B5FD">spring boot</text>
       </g>
       <!-- row 2 -->
       <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.3s" fill="freeze"/>
-        <rect x="484" y="424" width="78" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#06B6D4" stroke-width="1"/><text x="523" y="444" text-anchor="middle" fill="#0E7490">MySQL</text>
-        <rect x="570" y="424" width="58" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="599" y="444" text-anchor="middle" fill="#047857">Git</text>
-        <rect x="636" y="424" width="68" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#2563EB" stroke-width="1"/><text x="670" y="444" text-anchor="middle" fill="#1D4ED8">Figma</text>
-        <rect x="712" y="424" width="80" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#06B6D4" stroke-width="1"/><text x="752" y="444" text-anchor="middle" fill="#0E7490">Tailwind</text>
-        <rect x="800" y="424" width="72" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="836" y="444" text-anchor="middle" fill="#047857">Docker</text>
+        <rect x="484" y="424" width="78" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#22D3EE" stroke-width="1"/><text x="523" y="444" text-anchor="middle" fill="#A5F3FC">mysql</text>
+        <rect x="570" y="424" width="58" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="599" y="444" text-anchor="middle" fill="#6EE7B7">git</text>
+        <rect x="636" y="424" width="68" height="30" rx="15" fill="rgba(124,58,237,0.15)" stroke="#7C3AED" stroke-width="1"/><text x="670" y="444" text-anchor="middle" fill="#C4B5FD">figma</text>
+        <rect x="712" y="424" width="80" height="30" rx="15" fill="rgba(34,211,238,0.15)" stroke="#22D3EE" stroke-width="1"/><text x="752" y="444" text-anchor="middle" fill="#A5F3FC">tailwind</text>
+        <rect x="800" y="424" width="72" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1"/><text x="836" y="444" text-anchor="middle" fill="#6EE7B7">javascript</text>
       </g>
-      <g fill="#2563EB" opacity="0.5">
+      <g fill="#7C3AED" opacity="0.5">
         <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite" begin="4.3s"/>
       </g>
     </g>
 
-    <line x1="484" y1="480" x2="1128" y2="480" stroke="rgba(15,23,42,0.08)"/>
+    <line x1="484" y1="480" x2="1128" y2="480" stroke="rgba(255,255,255,0.08)"/>
 
     <!-- socials -->
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="4.7s" fill="freeze"/>
-      <g font-family="Consolas, monospace" font-size="14" fill="#64748B">
+      <g font-family="Consolas, monospace" font-size="14" fill="#94A3B8">
         <g filter="url(#glowSm)">
-          <circle cx="504" cy="520" r="20" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
-          <text x="504" y="525" text-anchor="middle" font-size="16" fill="#0F172A">GH</text>
+          <circle cx="504" cy="520" r="20" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
+          <text x="504" y="525" text-anchor="middle" font-size="16" fill="#F8FAFC">GH</text>
         </g>
-        <text x="536" y="525" fill="#334155">github.com/helloayushhh</text>
+        <text x="536" y="525" fill="#CBD5E1">github.com/helloayushhh</text>
 
         <g filter="url(#glowSm)">
-          <circle cx="504" cy="560" r="20" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
-          <text x="504" y="565" text-anchor="middle" font-size="13" fill="#0F172A">in</text>
+          <circle cx="504" cy="560" r="20" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
+          <text x="504" y="565" text-anchor="middle" font-size="13" fill="#F8FAFC">in</text>
         </g>
-        <text x="536" y="565" fill="#334155">linkedin.com/in/helloayush</text>
+        <text x="536" y="565" fill="#CBD5E1">linkedin.com/in/ayushpandeysurya</text>
 
         <g filter="url(#glowSm)">
-          <circle cx="820" cy="520" r="20" fill="rgba(15,23,42,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
-          <text x="820" y="525" text-anchor="middle" font-size="14" fill="#0F172A">🌐</text>
+          <circle cx="820" cy="520" r="20" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
+          <text x="820" y="525" text-anchor="middle" font-size="14" fill="#F8FAFC">🌐</text>
         </g>
-        <text x="852" y="525" fill="#334155">helloayush.vercel.app</text>
+        <text x="852" y="525" fill="#CBD5E1">helloayush.vercel.app</text>
       </g>
       <animate attributeName="opacity" values="1;0.85;1" dur="4s" begin="5.3s" repeatCount="indefinite" additive="sum"/>
     </g>
