@@ -138,14 +138,14 @@
     <circle cx="480" cy="41" r="6" fill="#FF5F57"/>
     <circle cx="502" cy="41" r="6" fill="#FEBC2E"/>
     <circle cx="524" cy="41" r="6" fill="#28C840"/>
-    <text x="806" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12.5" fill="#94A3B8">ayush@dev ~ zsh</text>
+    <text x="806" y="46" text-anchor="middle" font-family="Consolas, monospace" font-size="12.5" fill="#94A3B8">helloayushhh</text>
     <line x1="452" y1="62" x2="1160" y2="62" stroke="rgba(255,255,255,0.08)"/>
 
     <g font-family="Consolas, 'Courier New', monospace">
-      <text x="484" y="102" font-size="24" fill="#F8FAFC" opacity="0">Hi <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/></text>
+      <text x="484" y="102" font-size="24" fill="#F8FAFC" opacity="0">hi <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/></text>
       <text x="514" y="102" font-size="24" opacity="0">👋<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/></text>
 
-      <text x="484" y="140" font-size="30" font-weight="700" fill="url(#accentGrad)" opacity="0" filter="url(#glowSm)">I'm Ayush Pandey
+      <text x="484" y="140" font-size="30" font-weight="700" fill="url(#accentGrad)" opacity="0" filter="url(#glowSm)">i'm ayush
         <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.9s" fill="freeze"/>
       </text>
 
@@ -162,8 +162,8 @@
       <!-- info list, sequential reveal -->
       <g font-size="15" fill="#CBD5E1">
         <text x="484" y="222" opacity="0">📍 Location: Greater Noida, India<animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.6s" fill="freeze"/></text>
-        <text x="484" y="252" opacity="0">🎓 Education: B.Tech AI, Galgotias '27<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/></text>
-        <text x="484" y="282" opacity="0">🚀 Current Focus: Building "Tanu" — AI Career Companion<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/></text>
+        <text x="484" y="252" opacity="0">🎓 Education: B.Tech CSE(AI), Galgotias'27<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/></text>
+        <text x="484" y="282" opacity="0">🚀 Current Focus: building "tanu" — ai career companion<animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/></text>
         <text x="484" y="312" opacity="0">🌐 Portfolio: helloayush.vercel.app<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.1s" fill="freeze"/></text>
         <text x="484" y="342" opacity="0">✉️ Email: ayushpandeysurya@gmail.com<animate attributeName="opacity" values="0;1" dur="0.6s" begin="3.6s" fill="freeze"/></text>
       </g>
@@ -211,7 +211,7 @@
           <circle cx="504" cy="560" r="20" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
           <text x="504" y="565" text-anchor="middle" font-size="13" fill="#F8FAFC">in</text>
         </g>
-        <text x="536" y="565" fill="#CBD5E1">linkedin.com/in/helloayush</text>
+        <text x="536" y="565" fill="#CBD5E1">linkedin.com/in/ayushpandeysurya</text>
 
         <g filter="url(#glowSm)">
           <circle cx="820" cy="520" r="20" fill="rgba(255,255,255,0.04)" stroke="url(#accentGrad)" stroke-width="1.2"/>
