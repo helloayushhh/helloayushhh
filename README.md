@@ -14,7 +14,7 @@
 
 ---
 
-### <h2 align="center">github</h2>
+### github
 
 <div align="center">
 
@@ -127,13 +127,19 @@
 
 </details>
 
+</div>
+
 ---
 
 ### how i work
 
+<div align="center">
+
 **problem → product → system → build → data → iterate**
 
 selected repositories include **brd · prd · trd · project journey**.
+
+</div>
 
 ---
 
