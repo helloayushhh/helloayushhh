@@ -140,13 +140,13 @@ selected repositories include **brd · prd · trd · project journey**.
 <div align="center">
 
 <a href="https://apsx.vercel.app/">
-<img src="./github-profile-assets/portfolio-preview.png" width="44%" alt="portfolio"/>
+<img src="./github-profile-assets/portfolio-preview.png" width="95%" alt="portfolio"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ayushpandeysurya/">
-<img src="./github-profile-assets/linkedin-preview.png" width="44%" alt="linkedin"/>
+<img src="./github-profile-assets/linkedin-preview.png" width="95%" alt="linkedin"/>
 </a>
 
 <br/><br/>
