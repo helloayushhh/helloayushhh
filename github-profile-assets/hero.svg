@@ -1,14 +1,50 @@
-<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1400" height="360" rx="20" fill="#0D1117"/>
-<rect x="1" y="1" width="1398" height="358" rx="19" stroke="#30363D"/>
-<path d="M58 72H1342" stroke="#30363D"/>
-<path d="M58 288H1342" stroke="#30363D"/>
-<text x="60" y="126" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="17" letter-spacing="4">AYUSH PANDEY SURYA</text>
-<text x="60" y="194" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700">building products,</text>
-<text x="60" y="252" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700">not just projects.</text>
-<rect x="1125" y="111" width="170" height="72" rx="36" fill="#161B22" stroke="#3FB950"/>
-<circle cx="1157" cy="147" r="7" fill="#3FB950"/>
-<text x="1175" y="154" fill="#C9D1D9" font-family="Inter,Arial,sans-serif" font-size="18">product-minded</text>
-<text x="60" y="324" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="2">SOFTWARE  ·  DATA  ·  AI  ·  PRODUCT</text>
-<text x="1340" y="324" text-anchor="end" fill="#3FB950" font-family="Inter,Arial,sans-serif" font-size="14">APS / 2026</text>
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="bg" cx="78%" cy="45%" r="70%">
+    <stop offset="0" stop-color="#25201A"/>
+    <stop offset="0.45" stop-color="#111111"/>
+    <stop offset="1" stop-color="#090A0C"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="900" y1="90" x2="1240" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F7E7B0"/>
+    <stop offset="0.45" stop-color="#C8A45D"/>
+    <stop offset="1" stop-color="#806126"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1400" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#303030" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#C8A45D" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#303030" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+
+<rect width="1400" height="420" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1398" height="418" rx="23" stroke="#2B2B2B"/>
+
+<circle cx="1110" cy="210" r="142" fill="#C8A45D" fill-opacity=".06" filter="url(#blur)"/>
+
+<!-- subtle 3D wireframe orb -->
+<g opacity=".78" stroke="url(#gold)" stroke-width="1.2">
+  <ellipse cx="1110" cy="210" rx="142" ry="54"/>
+  <ellipse cx="1110" cy="210" rx="142" ry="100"/>
+  <ellipse cx="1110" cy="210" rx="142" ry="137"/>
+  <ellipse cx="1110" cy="210" rx="54" ry="142"/>
+  <ellipse cx="1110" cy="210" rx="100" ry="142"/>
+  <ellipse cx="1110" cy="210" rx="137" ry="142"/>
+  <path d="M968 210H1252"/>
+  <path d="M1110 68V352"/>
+</g>
+
+<circle cx="1110" cy="210" r="5" fill="#F7E7B0"/>
+<circle cx="1110" cy="210" r="3" fill="#090A0C"/>
+
+<text x="78" y="112" fill="#B9B0A0" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="5">AYUSH PANDEY SURYA</text>
+<text x="78" y="190" fill="#F5F2EA" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">product builder.</text>
+<text x="78" y="238" fill="#9D968A" font-family="Arial,Helvetica,sans-serif" font-size="22">software · data · ai · product</text>
+
+<line x1="78" y1="285" x2="650" y2="285" stroke="url(#line)"/>
+<text x="78" y="326" fill="#E1D8C6" font-family="Arial,Helvetica,sans-serif" font-size="17">i turn problems into products.</text>
+<text x="78" y="355" fill="#6F6A61" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">BUILDING / SHIPPING / LEARNING</text>
+
+<text x="1320" y="355" text-anchor="end" fill="#8B8170" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">APS / 2026</text>
 </svg>

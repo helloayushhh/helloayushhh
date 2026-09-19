@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="./github-profile-assets/hero-premium.svg" width="100%" alt="Ayush Pandey Surya — product builder"/>
+<img src="./github-profile-assets/hero.svg" width="100%" alt="Ayush Pandey Surya — product builder"/>
+
+<br/><br/>
+
+### ayush pandey surya
+
+**product-minded builder** working across **software, data, ai & product.**
+
+i build → ship → learn → repeat.
 
 <br/>
 
@@ -12,14 +20,6 @@
 
 </div>
 
-<br/>
-
-### ayush pandey surya
-
-**product-minded builder** working across **software, data, ai & product.**
-
-i build → ship → learn → repeat.
-
 ---
 
 ### selected work
@@ -28,7 +28,7 @@ i build → ship → learn → repeat.
 <tr>
 <td width="50%" valign="top">
 
-**investorlens**  
+<a href="https://github.com/helloayushhh/investorlens"><b>investorlens ↗</b></a>  
 *ai-powered investor intelligence*
 
 financial reports → **insights, kpis, semantic search & rag**
@@ -38,9 +38,10 @@ financial reports → **insights, kpis, semantic search & rag**
 **in progress · brd / prd / trd**
 
 </td>
+
 <td width="50%" valign="top">
 
-**tanu ai**  
+<a href="https://github.com/helloayushhh/tanu-ai"><b>tanu ai ↗</b></a>  
 *ai career companion*
 
 **jobs, resumes, matching & applications** in one workspace.
@@ -55,8 +56,8 @@ financial reports → **insights, kpis, semantic search & rag**
 <tr>
 <td width="50%" valign="top">
 
-**swiftupi**  
-*offline digital payment backend*
+<a href="https://github.com/helloayushhh/swiftupi-repo"><b>swiftupi ↗</b></a>  
+*offline upi via bluetooth mesh*
 
 **bluetooth mesh + secure transaction architecture**
 
@@ -65,11 +66,13 @@ financial reports → **insights, kpis, semantic search & rag**
 **in progress · brd / prd / trd**
 
 </td>
+
 <td width="50%" valign="top">
 
-**mutual fund analytics**
+<a href="https://github.com/helloayushhh/mutual-fund-analytics"><b>mutual fund analytics ↗</b></a>  
+*financial data → decision-ready analytics*
 
-raw financial data → **etl, analysis & decision-ready dashboards**
+**etl, analysis & interactive dashboards**
 
 `python` `sql` `power bi` `eda`
 
@@ -81,6 +84,8 @@ raw financial data → **etl, analysis & decision-ready dashboards**
 
 <details>
 <summary><b>more builds</b></summary>
+
+<br/>
 
 `culinaryai` · `placement analytics` · `pro resume` · `go gym` · `smart logistics` · `editkaro.in` · `inventory management` · `uber fleet manager` · `meesho teardown` · `dealership lead management`
 
@@ -100,20 +105,27 @@ selected repositories include **brd · prd · trd · project journey**.
 
 <table>
 <tr>
+
 <td align="center" width="50%">
+
 <a href="https://apsx.vercel.app/">
 <img src="./github-profile-assets/portfolio-preview.png" width="92%" alt="portfolio"/>
 <br/><br/>
 <b>portfolio ↗</b>
 </a>
+
 </td>
+
 <td align="center" width="50%">
+
 <a href="https://www.linkedin.com/in/ayushpandeysurya/">
 <img src="./github-profile-assets/linkedin-preview.png" width="92%" alt="linkedin"/>
 <br/><br/>
 <b>linkedin ↗</b>
 </a>
+
 </td>
+
 </tr>
 </table>
 
@@ -124,6 +136,7 @@ selected repositories include **brd · prd · trd · project journey**.
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=helloayushhh&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+
 <img src="https://streak-stats.demolab.com/?user=helloayushhh&theme=dark&hide_border=true" height="165"/>
 
 <br/><br/>
@@ -140,9 +153,19 @@ selected repositories include **brd · prd · trd · project journey**.
 
 </div>
 
-<br/>
+---
 
 <div align="center">
+
+**if you build too, say hi.**
+
+always happy to talk shop, swap ideas, or build something useful together.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ayushpandeysurya/">let's connect ↗</a>
+
+<br/><br/>
 
 **build with intent. ship with proof.**
 
