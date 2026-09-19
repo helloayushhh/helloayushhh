@@ -14,7 +14,7 @@
 
 ---
 
-### github
+### <h2 align="center">github</h2>
 
 <div align="center">
 
@@ -41,6 +41,8 @@
 ---
 
 ### selected work
+
+<div align="center">
 
 <table>
 <tr>
