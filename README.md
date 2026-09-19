@@ -2,7 +2,7 @@
 
 <img src="./github-profile-assets/hero.svg" width="100%" alt="Ayush Pandey Surya — product builder"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://apsx.vercel.app/">portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -25,10 +25,6 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=helloayushhh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=helloayushhh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="github trophies"/>
 
 </div>
 
@@ -135,7 +131,7 @@
 
 **problem → product → system → build → data → iterate**
 
-brd · prd · trd · project journey
+selected repositories include **brd · prd · trd · project journey**.
 
 ---
 
