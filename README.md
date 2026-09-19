@@ -137,25 +137,31 @@ selected repositories include **brd · prd · trd · project journey**.
 
 ### outside github
 
-<div align="center">
+<table>
+<tr>
+
+<td align="center" width="50%">
 
 <a href="https://apsx.vercel.app/">
-<img src="./github-profile-assets/portfolio-preview.png" width="40%" alt="portfolio"/>
+<img src="./github-profile-assets/portfolio-preview.png" width="92%" alt="portfolio"/>
+<br/><br/>
+<b>portfolio ↗</b>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center" width="50%">
 
 <a href="https://www.linkedin.com/in/ayushpandeysurya/">
-<img src="./github-profile-assets/linkedin-preview.png" width="40%" alt="linkedin"/>
+<img src="./github-profile-assets/linkedin-preview.png" width="92%" alt="linkedin"/>
+<br/><br/>
+<b>linkedin ↗</b>
 </a>
 
-<br/><br/>
+</td>
 
-<a href="https://apsx.vercel.app/">portfolio ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ayushpandeysurya/">linkedin ↗</a>
-
-</div>
+</tr>
+</table>
 
 ---
 
