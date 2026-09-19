@@ -55,7 +55,7 @@
 
 <br/>
 
-*ai-powered investor intelligence*
+*ai-powered investor intelligence platform*
 
 `python` `fastapi` `azure ai` `postgresql` `docker`
 
@@ -102,7 +102,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/helloayushhh/mutual-fund-analytics">
-<b>mutual fund analytics ↗</b>
+<b>mutual fund analytics platform ↗</b>
 </a>
 
 <br/>
